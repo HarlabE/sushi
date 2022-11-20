@@ -1,0 +1,55 @@
+body{
+    background: url(restaurant\ 1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 900px;
+}
+h3{position: absolute;
+    width: 830px;
+    height: 75px;
+    left: 309px;
+    top: 288px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+    color: #ffffff
+}    
+    
+p { position: absolute;
+    width: 822px;
+    height: 62px;
+    left: 309px;
+    top: 412px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    color: #ffffff
+}
+.menu-button {
+    position: relative;
+    width: 250px;
+    height: 80px;
+    left: 460px;
+    top: 548px;
+    background: #ffffff;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+.cart-button {
+    position: absolute;
+    width: 250px;
+    height: 80px;
+    margin-left: 460px;
+    margin-top: 548px;
+    background: #ffffff;
+    border-radius: 2px;
+}
